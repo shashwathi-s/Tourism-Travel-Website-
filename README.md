@@ -1,2 +1,0 @@
-# Tourism Responsive Website
-A user-friendly interface and amazing website to help viewers with travel and tourism details.  The website will have menus such as blogs, services, places and about us. And it also includes a  sign up to subscribe for newsletter criteria which will provide detailed information as well as a  best experience to the user. Users can contact the tourism directly using the contact details if there  are any issues. 
